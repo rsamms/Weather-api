@@ -3,7 +3,7 @@
 Sample api to connect to the National Weather Service Api
 
 ## Instructions
-This is a ASP.NET Core Web Api project build using Visual Studio 2022 Community Edition.
+This is a ASP.NET Core Web Api project built using Visual Studio 2022 Community Edition.
 
 It can be run using the default https or http server.
 
